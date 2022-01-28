@@ -10,3 +10,8 @@
 ********************************
 
 [Live Demo](https://profsofia.github.io/Api_Clima/)
+
+*****************************
+
+### Para clonar el repositorio 
+ #### git clone url
